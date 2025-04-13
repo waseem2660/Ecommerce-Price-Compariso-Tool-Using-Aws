@@ -1,4 +1,4 @@
-🛍️ Ecommerce Price Comparison Tool using AWS
+# 🛍️ Ecommerce Price Comparison Tool using AWS
 
 
 This project is a serverless web application that allows users to compare prices of products across multiple e-commerce platforms. Built using AWS services, the tool provides real-time product price comparisons with a scalable, secure, and cost-effective architecture.
